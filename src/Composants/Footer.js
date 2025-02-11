@@ -46,7 +46,7 @@ export function FooterComponent() {
             <div>
               <Footer.Title title="Nos Produits" />
               <Footer.LinkGroup col>
-                <Footer.Link as={Link} to="/CBD">Produits CBD</Footer.Link>
+                <Footer.Link as={Link} to="/CBD">Produits Bien-être</Footer.Link>
                 <Footer.Link as={Link} to="/Spiritueux">Spiritueux</Footer.Link>
               </Footer.LinkGroup>
             </div>

@@ -45,7 +45,7 @@ const CBD = () => {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 mt-12">
-      <h1 className="text-3xl font-bold mb-8">Nos produits CBD</h1>
+      <h1 className="text-3xl font-bold mb-8">Nos produits Bien-être</h1>
 
       {/* Bouton "Tous les produits" séparé */}
       <div className="mb-4">

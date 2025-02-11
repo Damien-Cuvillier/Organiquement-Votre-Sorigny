@@ -7,7 +7,7 @@ function Header() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     const menuItems = [
-        { path: '/cbd', label: 'CBD' },
+        { path: '/cbd', label: 'Bien-être' },
         { path: '/spiritueux', label: 'Spiritueux' },
         { path: '/distributeur', label: 'Distributeur' },
         { path: '/contact', label: 'Contact' },
