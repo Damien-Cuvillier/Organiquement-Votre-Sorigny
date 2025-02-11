@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sorigny/static/css/main.b8ff8e13.css",
+    "main.js": "/sorigny/static/js/main.093ca137.js",
+    "static/js/488.49822b20.chunk.js": "/sorigny/static/js/488.49822b20.chunk.js",
+    "index.html": "/sorigny/index.html",
+    "main.b8ff8e13.css.map": "/sorigny/static/css/main.b8ff8e13.css.map",
+    "main.093ca137.js.map": "/sorigny/static/js/main.093ca137.js.map",
+    "488.49822b20.chunk.js.map": "/sorigny/static/js/488.49822b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ff8e13.css",
+    "static/js/main.093ca137.js"
+  ]
+}
